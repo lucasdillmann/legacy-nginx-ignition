@@ -1,3 +1,11 @@
+<h3 align="center">
+Important note: This repository is a public archive of the original nginx ignition backend codebase written in Kotlin
+for historical purposes only. 
+Please check the main repository in <a href="https://github.com/lucasdillmann/nginx-ignition">this link</a>.
+</h3>
+
+<hr />
+
 <p align="center">
     <img src="docs/readme-screenshots-v2.png" alt="" width="600" />
 </p>
